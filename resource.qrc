@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/assets/icons">
+        <file>icons/envelope-solid.svg</file>
+        <file>icons/globe-solid.svg</file>
+        <file>icons/location-pin-solid.svg</file>
+        <file>icons/phone-solid.svg</file>
+        <file>icons/walkie-talkie-solid.svg</file>
+        <file>icons/user-gear-solid.svg</file>
+        <file>icons/exit.png</file>
+        <file>icons/save.png</file>
+    </qresource>
+</RCC>

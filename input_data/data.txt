@@ -1,0 +1,10 @@
+{
+   "company_name": "John & Doe Enterprises",
+   "name": "Doe John Sangg",
+   "position": "Janitor",
+   "phone": "+1 (256) 332-3521",
+   "fax": "+1 (256) 331-1295",
+   "email": "doejohnsngg@gmail.com",
+   "website": "sanggisjohn.wix.com",
+   "address": "5 Waterloo Street, Brookside Lane, Ontario, Canada"
+}
